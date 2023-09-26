@@ -1,4 +1,15 @@
 # Getting Started with Create React App
+TASK
+1 
+2
+3
+4
+5
+6
+7
+8
+9
+10
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

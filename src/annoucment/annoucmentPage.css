@@ -1,0 +1,110 @@
+.wrapper {
+   display: flex;
+   margin-top: 140px;
+   flex-direction: column;
+}
+
+.wrapperLeftBlock {}
+
+.header {
+   text-align: left;
+}
+
+.announcementBox {
+   display: flex;
+   justify-content: space-evenly;
+
+}
+
+.imageBlock {
+   width: 600px;
+   height: 780px;
+}
+
+.img {
+   width: 500px;
+   height: 740px;
+}
+
+.descriptionWrapper {
+   text-align: left;
+}
+
+.descriptionBlock {}
+
+.description {}
+
+.wrapperRight {
+   position: relative;
+   right: 300px;
+   display: flex;
+   flex-direction: column;
+}
+
+.price {}
+
+.phoneBtn {
+   background-color: #67c23a;
+   border-color: #67c23a;
+   border-radius: 15px;
+   height: 50px;
+   color: #fff;
+   width: 300px;
+   font-size: 25px;
+   text-align: revert;
+   display: table-cell;
+   vertical-align: middle;
+}
+
+.messageBtn {
+   background-color: #90938f;
+   border-color: #90938f;
+   border-radius: 15px;
+   height: 50px;
+   width: 280px;
+   font-size: 25px;
+   height: 50px;
+   color: #fff;
+   width: 300px;
+
+}
+
+.socialBtn {
+   background-color: #6e6bff;
+   border-color: #6e6bff;
+   border-radius: 15px;
+   height: 50px;
+   width: 280px;
+   font-size: 25px;
+   height: 50px;
+   color: #fff;
+   width: 300px;
+   /* text-align: revert;
+   display: table-cell;
+   vertical-align: middle; */
+}
+
+.btn {
+   margin-bottom: 30px;
+}
+
+.wrapperBottom {}
+
+.productCard {
+   display: flex;
+   justify-content: space-evenly;
+}
+
+.item {
+   margin: 0 0 20px 0;
+}
+
+.titleBottom {
+   font-size: 25px;
+   text-align: left;
+   margin: 30px 0px 0 70px
+}
+
+.itemImg {
+   height: 100px;
+}
