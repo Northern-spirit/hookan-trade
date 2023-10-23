@@ -1,10 +1,10 @@
 import React from "react";
-import "./annoucmentPage.css"
+import "./annoucementPage.css"
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
-export const AnnoucmentPage = () => {
+export const AnnoucementPage = () => {
    const settings = {
       dots: true,
       infinite: true,
@@ -23,9 +23,9 @@ export const AnnoucmentPage = () => {
                   <h1>Продам кальян BLADE One M (red)</h1>
                   <div className="imageBlock">
                      <Slider {...settings}>
-                        <div><img className="img" alt="description of image" src="https://bladehookah.com/img/products/blade-one-m/red.png" /></div>
-                        <div><img className="img" alt="description of image" src="https://bladehookah.com/img/products/blade-one-m/connector.png" /></div>
-                        <div><img className="img" alt="description of image" src="https://bladehookah.com/img/products/blade-one-m/diffuser.png" /></div>
+                        <div><img className="img" alt="souvenir1" src='https://bladehookah.com/img/products/blade-one-m/red.png' /></div>
+                        <div><img className="img" alt="souvenir2" src='https://bladehookah.com/img/products/blade-one-m/connector.png' /></div>
+                        <div><img className="img" alt="souvenir3" src='https://bladehookah.com/img/products/blade-one-m/diffuser.png' /></div>
                      </Slider>
                   </div>
                </div>

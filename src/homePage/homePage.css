@@ -1,0 +1,69 @@
+.wrapper {}
+
+.searchWrapper {
+   display: flex;
+   justify-content: center;
+}
+
+.inputStyle {
+   width: 50%;
+   height: 40px;
+   border-radius: 25px;
+   margin: 0px 10px;
+}
+
+.wrapperSort {
+   display: flex;
+   justify-content: center;
+}
+
+.btnSearch {
+   width: 90px;
+   border-radius: 17px;
+   color: white;
+   background: black;
+   font-size: 20px;
+}
+
+.titleH1 {
+   margin-left: 20%;
+   margin-bottom: 29px;
+}
+
+.checkboxWrapper {
+   display: flex;
+   margin: 0 20px;
+}
+
+.selectCase {
+   margin: 17px 0;
+   width: 130px px;
+   height: 30px;
+}
+
+.wrapperCard {
+   display: flex;
+   justify-content: center;
+   margin: 0 0 20px 0;
+}
+
+.imgHomePageCard {
+   width: 230px;
+   margin: 0px 50px;
+}
+
+.checkBox {
+   width: 19px;
+}
+
+.wrapperImage {}
+
+.wrapperText {}
+
+.price {}
+
+.miniDescription {}
+
+.wrapperDescrCityTime {
+   margin: 31px 0;
+}

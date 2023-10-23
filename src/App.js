@@ -1,10 +1,10 @@
 import './App.css';
-import { AnnoucmentPage } from './annoucment/AnnoucmentPage.jsx';
+import { AnnoucementPage } from './annoucment/AnnoucementPage.jsx';
 
 function App() {
   return (
     <div className="App">
-      <AnnoucmentPage />
+      <AnnoucementPage />
     </div>
   );
 }
